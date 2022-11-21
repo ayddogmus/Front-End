@@ -1,0 +1,6 @@
+[0305/071006.258:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: Boru kapatýlýyor. (0xE8)
+[0305/071805.265:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: Boru kapatýlýyor. (0xE8)
+[0315/070521.554:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: Boru kapatýlýyor. (0xE8)
+[0322/081500.175:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: Boru kapatýlýyor. (0xE8)
+[0425/093819.038:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: Boru kapatýlýyor. (0xE8)
+[0426/100345.769:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: Boru kapatýlýyor. (0xE8)
